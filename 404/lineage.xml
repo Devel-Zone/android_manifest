@@ -24,6 +24,7 @@
     <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="lineage" />
     <project path="external/exfat" name="android_external_exfat" remote="lineage" />
     <project path="external/json-c" name="android_external_json-c" remote="lineage" />
+    <project path="external/skia" name="android_external_skia" remote="lineage" />
 
     <!-- Hardware -->
     <project path="hardware/qcom/bootctrl" name="android_hardware_qcom_bootctrl" remote="lineage" revision="lineage-17.1" />

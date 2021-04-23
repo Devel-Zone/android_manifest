@@ -53,7 +53,6 @@
   <project path="external/libjpeg-turbo" name="platform_external_libjpeg-turbo" remote="404" />
   <project path="external/libpng" name="platform_external_libpng" remote="404" />
   <project path="external/selinux" name="platform_external_selinux" remote="404" />
-  <project path="external/skia" name="platform_external_skia" remote="404" />
   <project path="external/sqlite" name="platform_external_sqlite" remote="404" />
   <project path="external/zlib" name="platform_external_zlib" remote="404" />
   <project path="external/libnfc-nxp" name="platform_external_libnfc-nxp" remote="404" />
